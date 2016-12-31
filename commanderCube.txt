@@ -1,0 +1,290 @@
+//Commander Cube
+
+//PROMO
+//green
+[M15]Reclamation Sage  #game day promo
+[FNM]Farseek #FNM promo
+[PROMO]Garruk Wildspeaker #XBOX PROMO
+//red
+[PROMO]StaggerShock #game day promo
+//black
+[FNM]Xathrid NEcromancer #FNM Promo
+
+//FOIL
+//green
+[GTC]Gyre Sage
+[FRF]Temur Sabertooth
+//red
+[EMA]Flame Jab
+[DKA]Flayer of the Hatebound
+[FUT]Arc Blade
+[NPH]Moltensteel Dragon
+
+//FOREIGN
+//green
+[COM]Deadwood Treefolk #Japanese
+[LRW]Vigor#Japanese
+//red
+[DTK]Descent of the Dragons #Russian
+//black
+[TSP]Dread Return #Japanese
+
+//NORMAL
+//green
+[C16]Den Protector
+[C16]Lurking Predators
+[C16]Beastmaster Ascension
+[C16]Thunderfoot Baloth
+[C16]Kalonian Hydra
+[NPH]Birthing Pod
+[MM2]Rampant Growth
+[C13]Night Soil
+[AVR]Primal Surge
+[CHK]Heartbeat of Spring
+[THS]Bow of Nylea
+[EMA]Brawn
+[5DN]Horned Helm
+[MRD]Viridian Shaman
+[10E]Abundance
+[SOM]Asceticism
+[MRD]Creeping Mold
+[SHM]Gleeful Sabotage
+[M11]Fauna Shaman
+[BFZ]From Beyond
+[ONS]Naturalize
+[M12]Acidic Slime
+[MMA]Krosan Grip
+[C15]Bane of Progress
+[C14]Song of the Dryads
+[C15]Sakura-Tribe Elder
+[DST]Reap and Sow
+[POR]Nature's Lore
+[M11]Cultivate
+[DDE]Harrow
+[DDO]Explosive Vegitation
+[MRD]Journey of Discovery
+[C15]Primal Growth
+[7ED]Llanowar Elves
+[C15]Wood Elves
+[SHM]Farhaven Elf
+[BNG]Courser of Kruphix
+[C15]Forgotten Ancient
+[C15]Mycoloth
+[C15]Verdant Confluence
+[M13]Rancor
+[ISD]Creeping Renaissance
+[ORI]Managorger Hydra
+[C13]Reincarnation
+[ISD]Moldgraph Monstrosity
+[C15]Pathbreaker Ibex
+[MM2]Sundering Vitae
+[EMA]Fog
+[7ED]Fyndhorn Elder
+[C15]Arachnogenisis
+[C15]bloodspore Thrinax
+[ORI]Reclaim
+[OGW]Oath of Nissa
+[MBS]Praetor's Counsel
+[CNS]Terastadon
+[ICE]Fyndhorn Elves
+[ORI]Elvish Visionary
+[ZEN]Lotus Cobra
+[NEM]Skyshroud Claim
+[ULG]Crop Rotation
+[C13]Primal Vigor
+[ORI]Evolutionary Leap
+[M15]Genisis Hydra
+[AVR]Soul of the Harvest
+[KTK]See the unwritten
+[SOM]Bellowing Tanglewurm
+[M13]Mwonvuli Beast Tracker
+[ROE]Mul Daya Channelers
+[CHK]Nature's Will
+[M15]Wall of Mulch
+[C13]Spoils of Victory
+[OGW]Zendikar Resurgent
+[DDD]Harmonize
+[CN2]Wild Pair
+[ORI]Woodland Bellower
+[MMA]Kodama's Reach
+[ORI]The Great Aurora
+[EMA]Green Sun's Zenith
+[DDP]Primal Command
+[6ED]Worldly Tutor
+[C15]Skullwinder
+[C15]Eternal Witness
+[SCG]Fierce Empath
+//red
+[DGM]Possiblity Storm
+[SOI]Devils' Playground
+[10E]Blaze
+[C14]Chaos Warp
+[M11]Pyretic Ritual
+[MRD]Seething Song
+[C15]Mizzix Mastery
+[TSP]Ignite Memories
+[C16]Darretti, Scrap Savant
+[CN2]Flame Slash
+[MM2]Banefire
+[KTK]Tormenting Voice
+[RTR]Vandal Blast
+[GTC]Madcap Skills
+[PLS]Thunderscape Familliar
+[C14]Bitter Feud
+[CNS]Mana Geyser
+[C15]Hamletback Golaith
+[JOU]Bearer of the Heavens
+[RTR]Guttersnipe
+[ONS]Rorix Bladewing
+[M10]Lightning Bolt
+[C14]Goblin Welder
+[DKA]Increasing Vengance
+[C14]Flametounge Kavu
+[ISD]Devil's Play
+[C14]Volcanic Offering
+[AVR]Reforge the Soul
+[ALA]Flameblast Dragon
+[C15]Chain Reaction
+[BNG]Archetype of Aggression
+[MRD]Trash for Treasure
+[C15]Charmbreaker Devils
+[EMA]Worldgorger Dragon
+[C14]Impact Resonance
+[C15]Mizzium Mortars
+[DT]Volcanic Vision
+[JOU]Pyroclasm
+[FRF]Arcbond
+[SOM]Arc Trail
+[EMN]Faithless Looting
+[ALA]Predator Dragon
+[C15]Comet Storm
+[MBS]Red Sun's Zenith
+[STH]Fanning the Flames
+[C14]Hoard-Smelter Dragon
+[ULG]Avalanche Rider
+[FRF]Mob Rule
+[M15]Dragon Mage
+[RTR]Dynacharge
+[EMA]Reckless Charge
+[THS]Titan's Strength
+[EMN]Thermo-Alchemist
+[OGW]Devour in Flames
+[SOI]Lightning Axe
+[M13]Searing Spear
+[DTK]Thunderbreak Regent
+[ORI]Scab-Clan Berserker
+[DD2]Magma Jet
+[EMA]Price of Progress
+[FRF]Flamerush Rider
+[INV]Shivan Harvest
+[3ED]Red Elemental Blast
+[EXO]Anarchist
+[EXO]Shattering Pulse
+[THS]Anger of the Gods
+[MBS]Slagstorm
+[KTK]Howl of the Horde
+[M14]Dualcaster Mage
+[MOR]Spitebellows
+[MRD]Fractured Loyalty
+[CSP]Rite of Flame
+[SOM]Assault Strobe
+[M14]Shock
+[THS]Messenger's Speed
+[JOU]Dictate of the Twin Gods
+[PLC]Pyrohemia
+[PCY]Avatar of Fury
+[EMN]Mirrorwing Dragon
+[FRF]Temur Battle Rage
+[KTK]Sarkahn, the Dragonspeaker
+[C14]Tyrant's Familiar
+[C14]Scrap Mastery
+[CHK]Desperate Ritual
+//black
+[C16]Army of the Damned
+[SOI]Elusive Tormentor
+[C15]Phyrexian Arena
+[CN2]Smuggler Captain
+[CN2]Assemble the Rank and Vile
+[ORI]Gilt-Leaf Winnower
+[C14]Black Sun's Zenith
+[DDJ]Twilight's Call
+[USG]Exhume
+[KLD]Demon of Dark Schemes
+[AVR]Exquisite Blood
+[TMP]Reanimate
+[EMA]Blood Artist
+[CM2]Regicide
+[TMP]Diabolic edict
+[ODY]Mindslicer
+[ISD]Reaper from the Abyss
+[MRD]Terror
+[ARC]Scion of Darkness
+[SCG]Decree of Pain
+[C15]Shriekmaw
+[CN2]Capital Punishment
+[RTR]Grave Betrayal
+[C13]Viscera Seer
+[5ED]Animate Dead
+[C14]Bloodgift Demon
+[ISD]Victim of Night
+[MBS]Phyrexian Crusader
+[CNS]Tragic Slip
+[BOK]Hero's Demise
+[THS]Hero's Downfall
+[5DN]Night's Whisper
+[KTK]Merciless Executioner
+[FEM]hymn to Tourach
+[DDK]Ancient Craving
+[CNS]Skeletal Scrying
+[EM2]Sign in Blood
+[M13]Phylactery Lich
+[THS]Whip of Erebos
+[BFZ]Zulaport Cutthroat
+[M15]Liliana Vess
+[ULG]Unearth
+[M13]Diabolic Revelation
+[PCY]Rhystic Tutor
+[OGW]Sifter of Skulls
+[CN2]Murder
+[M10]Doom Blade
+[ISD]Tribute to hunger
+[ORI]Read the Bones
+[THS]Gray Merchant of Asphodel
+[FRF]Palace Seige
+[C14]Disciple of Bolas
+[ODY]Buried Alive
+[3ED]Demonic Tutor
+[M14]Sanguine Bond
+[RAV]Stinkweed imp
+[ORI]Priest of the Blood Rite
+[ORI]Fleshbag Marauder
+[KLD]Aetherborn Marauder
+[ORI]Languish
+[C13]Ophiomancer
+[BFZ]Vampiric Rites
+[ALA]Corpse Connoissuer
+[GTC]Crypt Ghast
+[TOR]Dawn of the Dead
+[PCY]Rhystic Tutor
+[ZEN]Bloodcheif ascension
+[C15]Wretched Confluence
+[M10]Rise from the Grave
+[DKA]Increasing Ambition
+[MMQ]Snuff Out
+[RAV]Desecration Deamon
+[DTK]Ultimate Price
+[M13]Reckless Spite
+[DTK]Transgress the Mind
+[C14]Magus of the Coffers
+[KTK]Murderous Cut
+[M13]Phyrexian Delver
+[EMA]Innocent Blood
+[C15]Barter in Blood
+[SOI]To the Slaughter
+[THS]Abhorent Overlord
+[OGW]Grasp of Darkness
+[C15]Butcher of Malakir
+[C15]Deadly Tempest
+[MMQ]Conspiracy
+[C14]Xathrid Demon
+//blue
